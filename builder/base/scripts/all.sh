@@ -46,7 +46,7 @@ sudo apt-get -y install git git-core subversion mercurial bzr fossil xvfb socat
 ./phantomjs.sh
 
 # install base languages
-./openjdk.sh
+# ./openjdk.sh
 ./python.sh
 ./nodejs.sh
 ./ruby.sh
